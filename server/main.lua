@@ -42,7 +42,7 @@ AddEventHandler('esx_shops:buyItem', function(itemName, amount, zone)
 		if xPlayer.getInventoryItem(itemName).count >= amount then
 			xPlayer.addMoney(price, label .. " Purchase")
 			xPlayer.removeInventoryItem(itemName, amount)
-			xPlayer.showNotification(_U('bought', amount, label, ESX.Math.GroupDigits(price))) 
+			xPlayer.showNotification(_U('resel', amount, label, ESX.Math.GroupDigits(price))) 
 		   return true
 		else
 		   return false

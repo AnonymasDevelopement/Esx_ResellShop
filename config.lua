@@ -22,16 +22,17 @@ Config.Zones = {
 		Pos = {
 			vector3(182.3896, -1319.1487, 29.3163)
 	},
-	Size  = 1.0,
-	Type  = 1,
-	Color = 0,
+	Size  = 0.7,
+	Type  = 500,
+	Color = 5,
+	Name  = ('Pawn Shops'),
 	ShowBlip = true,
     ShowMarker = true
     },
 
 -- 	To add another shop here is an example 
 
---	ResselShop = {   -- Change for the name you what for your shop
+--	ReselerShop = {   -- Change for the name you what for your shop
 --		Items = {
 --			{
 --				name = "",
@@ -60,6 +61,7 @@ Config.Zones = {
 --	Size  = 1.0,
 --	Type  = 1,
 --	Color = 0,
+--  Name  = ('Reseler Shops'),
 --	ShowBlip = true,
 --  ShowMarker = true
 --  }

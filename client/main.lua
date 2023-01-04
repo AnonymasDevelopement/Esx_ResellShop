@@ -75,7 +75,7 @@ CreateThread(function()
 			SetBlipAsShortRange(blip, true)
 
 			BeginTextCommandSetBlipName('STRING')
-			AddTextComponentSubstringPlayerName(_U('shops'))
+			AddTextComponentString(v.Name)
 			EndTextCommandSetBlipName(blip)
 		end
 	end
