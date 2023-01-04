@@ -6,31 +6,21 @@ Config.MarkerColor = {r = 71, g = 181, b = 255, a = 120}
 Config.Locale = 'en'
 
 Config.Zones = {
-	HunterSeller = {
+	PawnShop = {
 		Items = {
 			{
-				name = "meat",
-				label = "Viande Sauvage",
+				name = "bread",
+				label = "Bread",
 				price = 15
 			},
 			{
-				name = "leather_deer_bad",
-				label = "Peau Mauvais",
-				price = 30
-			},
-			{
-				name = "leather_deer_good",
-				label = "Peau Bonne",
-				price = 40
-			},
-			{
-				name = "leather_deer_perfect",
-				label = "Peau Parfaite",
-				price = 50
+				name = "water",
+				label = "Water",
+				price = 15
 			}
 		},
 		Pos = {
-			vector3(1993.8796, 3792.2046, 32.1808)
+			vector3(182.3896, -1319.1487, 29.3163)
 	},
 	Size  = 1.0,
 	Type  = 1,
