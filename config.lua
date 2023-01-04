@@ -6,7 +6,6 @@ Config.MarkerColor = {r = 71, g = 181, b = 255, a = 120}
 Config.Locale = 'en'
 
 Config.Zones = {
-
 	HunterSeller = {
 		Items = {
 			{
@@ -39,8 +38,10 @@ Config.Zones = {
 	ShowBlip = true,
     ShowMarker = true
     },
-	
---	ChangeMe = {   -- Change for the name you what for your shop
+
+-- 	To add another shop here is an example 
+
+--	ResselShop = {   -- Change for the name you what for your shop
 --		Items = {
 --			{
 --				name = "",
