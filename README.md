@@ -1,4 +1,4 @@
-<h1 align='center'>[ESX] Shops</a></h1><p align='center'><b><a href='https://discord.gg/pCubBXYu'>Discord</a> - <a href='https://docs.esx-framework.org/legacy/installation'>Documentation</a></b></h5>
+<h1 align='center'>[ESX] Shops</a></h1><p align='center'><b><a href='https://discord.gg/pCubBXYu'>Discord</a> - <a href='https://anonymas-developement.tebex.io/'>Tebex</a> - <a href='https://www.twitch.tv/anonymas'>Twitch</a></b></h5>
 
 This resource is inspired by the resource esx_shops and a revisit of the code to sell items of your choice you configure everything within the config.lua,
 and don't worry about cheaters, we have security resource to protect you and your city!
